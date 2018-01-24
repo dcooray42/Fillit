@@ -5,9 +5,11 @@ valables et qui retourne le carré le plus petit possible avec les tetriminos ag
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
+
+**Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
 
 #### Systeme d'exploitation
 
@@ -56,7 +58,7 @@ make re
 
 ## Faire des tests
 
-Une fois que le programme a été crée, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un fichier 
+Une fois que le programme a été créé, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un fichier 
 contenant des tetriminos valides.
 
 ### Utilisation du programme
