@@ -61,8 +61,8 @@ Ligne de commande
 ```
 
 #### Exemple
-![Screenshot](photo/photo_test.jpeg)
-![Screenshot](photo/photo_fillit.jpeg)
+![alt text](https://raw.githubusercontent.com/konamifox/photo/master/photo_test.jpeg?token=AT6ePLdyDWRdumIfA3G4WJ4yxZEdUQvnks5acdSfwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/konamifox/photo/master/photo_fillit.jpeg?token=AT6ePJCvWGLdFVn0s8ZSIKsoj5WQt_7eks5acdRtwA%3D%3D)
 
 ## Auteur
 
