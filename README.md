@@ -66,7 +66,7 @@ contenant des tetriminos valides.
 Ligne de commande
 
 ```
-./fillit [nom du fichier avec les tetriminos valides]
+./fillit [PATH/nom du fichier avec les tetriminos valides]
 ```
 
 #### Exemple
