@@ -78,4 +78,4 @@ Ligne de commande
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
